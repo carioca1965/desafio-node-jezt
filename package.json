@@ -1,0 +1,12 @@
+{
+  "name": "desafio-jest-cobertura",
+  "version": "1.0.0",
+  "description": "Projeto do desafio DIO com Jest e meta de cobertura.",
+  "main": "src/calculadora.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
